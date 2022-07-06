@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kungfumarty
+- 👀 I’m interested in JS, CSS, HTML, WCF/WPF developing
+- 🌱 I’m currently learning JS, CSS, HTML
+- 💞️ I’m looking to collaborate on <still grinding>
+- 📫 How to reach me tg - @kungfumarty
